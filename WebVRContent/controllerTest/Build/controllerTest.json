@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "controllerTest.data.unityweb",
+"asmCodeUrl": "controllerTest.asm.code.unityweb",
+"asmMemoryUrl": "controllerTest.asm.memory.unityweb",
+"asmFrameworkUrl": "controllerTest.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

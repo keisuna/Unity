@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | webGL_Music</title>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/WebVR.json");
+    </script>
+    <script type="text/javascript" src="myWebVR.js"></script>
+  </head>
+  <body>
+    <div id="gameContainer" style="width: 960px; height: 600px; margin: auto"></div>
+    <input type="button" id="button" value="Start VR" onclick="webvr_click()" disabled="true">
+  </body>
+</html>
