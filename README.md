@@ -6,5 +6,5 @@ https://github.com/keisuna/WebVRSample
 
 コンテンツページ:
 
-http://keisuna.github.io/WebVRSample/index.html
+http://keisuna.github.io/WebVRSample/
 
