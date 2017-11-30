@@ -2,9 +2,9 @@ WebVRContent
 
 ビルドページ:
 
-https://github.com/keisuna/WebVRContent
+https://github.com/keisuna/WebVRSample
 
 コンテンツページ:
 
-http://keisuna.github.io/WebVRContent/index.html
+http://keisuna.github.io/WebVRSample/index.html
 
