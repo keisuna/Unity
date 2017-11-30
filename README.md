@@ -1,4 +1,4 @@
-WebVRContent
+WebVRSample
 
 ビルドページ:
 
